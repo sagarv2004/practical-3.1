@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document</title>
+</head>
+<body style="border: 0.1cm solid rgb(2, 2, 2);" id="body">
+<style>strong.right{ text-align: right; 
+} 
+#body{ border-color: black; height: 900px; width:700px ; 
+} 
+</style>
+<imgsrc="/1st sem web development/vedant.JPG" height="150"  width="155"style="float:right" >
+<center><h3><b><u> RESUME OF Electronic And Telicommunication
+ENGINEER</u></b></h3></center>
+<div><b align ="right">Sagar Vinodiya</b><br>
+<b>Address :</b> Near IT Park road ,NAGPUR . <br>
+<b>Email :</b> sagarvinodiya99@gmail.com <br>
+<b>Phone no.:</b> 96337...** <br></b>
+<br>
+<h4 style="background-color: rgb(89, 193, 241);">PERSONAL DETAILS</h4><p>
+Name : Sagar Vinodiya<br>
+Mather's name : sneha vinodiya<br>
+Father's name : rakesh vinodiya<br>
+Date of birth : 08/05/2004 <br>
+</p>
+<h4 style="background-color: rgb(89, 193, 241);">EDUCATION QAULIFICATION</h4><table border="1" cellspacing="0">
+<tr>
+<th>Education</th><th>Percent</th><th>links</th>
+</tr>
+<tr>
+<td>SSC</td><td>70%</td><td><a href="marksheet.html"> go to  marksheet</a></td>
+</tr>
+<tr>
+<td>HSC</td><td>72%</td><td><a href="marksheet.html"> go to marksheet</a></td></tr>
+<tr>
+<td>B-Tech</td><td>CGPA:8.2</td><td><a href="marksheet.html"> go to  marksheet</a></td>
+</tr>
+</table>
+<h4 style="background-color: rgb(89, 193, 241);">TECHNICAL SKILL</h4>
+<ol><li>Msword,Ms power point and Ms excel intrested in various types of software</li>
+<li>knowledge about c language</li>
+<li>knowledge about c++ language</li>
+<h4 style="background-color: rgb(89, 193, 241);">PERSONAL DETAIL</h4> Nationality : Indian <br>
+Marital status : single <br>
+Hobbies : Listening to songs , cricket ,volleyball <br>
+<h4 style="background-color: rgb(89, 193, 241);">STRENGTH</h4>
+<ul><li>joyful attitude</li>
+<li>good at coding</li>
+<li>good in english language</li>
+<li>dedicated towards work</li></ul>
+</body>
+</html>
